@@ -30,8 +30,7 @@ Designed for coursework in the University of Maryland’s Information Science pr
 ---
 
 ## How to Run
-1. Clone or download this repository:
-python go_fish.py
-
-## test
-pytest test_cards.py
+Clone or download this repository:
+   ```bash
+   git clone https://github.com/aaJurado/tic-tac-toe-oop.git
+   cd tic-tac-toe-oop
